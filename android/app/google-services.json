@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937958901008",
+    "project_id": "loginsignuptestta",
+    "storage_bucket": "loginsignuptestta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937958901008:android:6d594778e714b654485195",
+        "android_client_info": {
+          "package_name": "com.example.tessprojek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937958901008-efjl4077anr2mrbvgehr3tsshggmnjkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhV9JyYxbkcViKnysmjp-vnNQEUDp9i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937958901008-efjl4077anr2mrbvgehr3tsshggmnjkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
